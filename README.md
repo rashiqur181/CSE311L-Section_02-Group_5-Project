@@ -1,6 +1,6 @@
 # CSE311L-Section_02-Group_5-Project
 
-Super-shop Management System
+Super-shop Management System  
 
 **Version 1.0.0**
 
